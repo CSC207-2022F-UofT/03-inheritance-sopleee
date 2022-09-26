@@ -45,4 +45,14 @@ class BagMain {
         }
         return total;
     }
+
+//    public static void main(String[] args) {
+//        CrossbodyBag cbb = new CrossbodyBag("blue", 1, 4);
+//        HandBag hb = new HandBag("red", 1);
+//        System.out.println(cbb);
+//        Bag[] bags = {cbb, hb};
+//        enhanceBags(bags, true);
+//        System.out.println(cbb);
+//        System.out.println(hb);
+//    }
 }
